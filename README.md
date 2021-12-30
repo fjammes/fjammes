@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+[![Fjammes's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjammes)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 Working on the Vera C. Rubin telescope database
+- 🌱 Improving knowledge on machine learning and 
+- 👯 Kubernetes expert and training (CKA and CKS)
+- 🤔 I’m looking to help with Kubernetes, operators, security and storage
+- 💬 Ask me about Kubernetes and its ecosystem
+- 📫 Send me a message on [my LinkedIn profile](https://www.linkedin.com/in/fabrice-jammes-5b29b042/)
+
 <!--
 **fjammes/fjammes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
