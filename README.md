@@ -4,7 +4,7 @@
 
 - 🔭 Working on the Vera C. Rubin telescope database
 - 🌱 Improving knowledge on machine learning and 
-- 👯 Kubernetes expert and training (CKA and CKS)
+- 👯 [Kubernetes expert and trainer](https://k8s-school.fr) (CKA and CKS)  
 - 🤔 I’m looking to help with Kubernetes, operators, security and storage
 - 💬 Ask me about Kubernetes and its ecosystem
 - 📫 Send me a message on [my LinkedIn profile](https://www.linkedin.com/in/fabrice-jammes-5b29b042/)
