@@ -7,7 +7,7 @@
 - 💬 Ask me about Kubernetes and its ecosystem
 - 📫 Send me a message on [my LinkedIn profile](https://www.linkedin.com/in/fabrice-jammes-5b29b042/)
 
-[![Fjammes's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjammes)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
+[![Fjammes's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjammes&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <img height="137px"
   src="https://stackoverflow-card.vercel.app/?userID=2784039&theme=dracula"
