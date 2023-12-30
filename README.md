@@ -7,10 +7,6 @@
 - 💬 Ask me about Kubernetes and its ecosystem
 - 📫 Send me a message on [my LinkedIn profile](https://www.linkedin.com/in/fabrice-jammes-5b29b042/)
 
-<img height="137px"
-  src="https://stackoverflow-card.vercel.app/?userID=2784039&theme=dracula"
-/>
-
 
 <!--
 **fjammes/fjammes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
